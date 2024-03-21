@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T08:09:22.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wwOqWC-x27DeNGnblGAo" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T08:29:48.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rIZD8Y5GfsEleO48WZs2" version="23.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2320" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2320" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5YO8LLsSh-AyEsvJpuwk-36" value="Präsidium e.V." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YO8LLsSh-AyEsvJpuwk-37" value="berät" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="5YO8LLsSh-AyEsvJpuwk-11" target="5YO8LLsSh-AyEsvJpuwk-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
